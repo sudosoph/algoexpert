@@ -23,7 +23,7 @@ class TestProgram(unittest.TestCase):
 	def test_case_3(self):
 		self.assertEqual(minNumberOfJumps([1, 1],1))
 	def test_case_4(self):
-			self.assertEqual(minNumberOfJumps([3, 1],1))
+		self.assertEqual(minNumberOfJumps([3, 1],1))
 	def test_case_4(self):
 		self.assertEqual(minNumberOfJumps([2, 1, 1],1))
 
